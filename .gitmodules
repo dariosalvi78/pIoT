@@ -1,0 +1,9 @@
+[submodule "pIoT-HW"]
+	path = pIoT-HW
+	url = https://github.com/dariosalvi78/pIoT-HW.git
+[submodule "pIoT-FW"]
+	path = pIoT-FW
+	url = https://github.com/dariosalvi78/pIoT-FW.git
+[submodule "pIoT-SW"]
+	path = pIoT-SW
+	url = https://github.com/dariosalvi78/pIoT-SW.git
