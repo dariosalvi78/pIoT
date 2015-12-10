@@ -11,3 +11,9 @@ This repo is a container of the three sub repos for hardware design (pIoT-HW), t
 * [pIoT-FW](https://github.com/dariosalvi78/pIoT-FW), the Arduino code that runs on the nodes
 * [pIoT-SW](https://github.com/dariosalvi78/pIoT-SW), a Java server with a web interface
 * [pIoT-JS](https://github.com/dariosalvi78/pIoT-JS), a Javascript server that runs on nodejs
+
+## Contributions
+
+I would be really happy to share this project with others!
+
+Drop me an email if you are itnerested: my user name at gmail.com
